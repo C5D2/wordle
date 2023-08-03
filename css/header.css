@@ -1,0 +1,32 @@
+header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #f6f6f6;
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.top-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.top-icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: ;
+  padding: 10px 10px 10px 10px;
+}
+
+.top-icons img {
+  width: 30px;
+  margin-right: 10px;
+}
