@@ -1,0 +1,17 @@
+@import "main.css";
+@import "header.css";
+@import "footer.css";
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+  font-family: "Varela Round", sans-serif;
+  font-weight: bolder;
+}

@@ -22,7 +22,7 @@ header {
 .top-icons {
   display: flex;
   justify-content: flex-end;
-  align-items: ;
+  align-items: center;
   padding: 10px 10px 10px 10px;
 }
 
