@@ -13,8 +13,7 @@ header {
 
 .top-title {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  margin-left: 80px;
   font-size: 40px;
   font-weight: bold;
 }
